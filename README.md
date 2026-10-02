@@ -3,4 +3,4 @@
 # XBOX Dashboard
 XBOX Dashboard, the new Dashboard for Original XBOX.
 
-`Microsoft dont continued? i do.`
+`Microsoft don't continued? i do.`
