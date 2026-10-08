@@ -1,4 +1,5 @@
-<img width="400" height="400" alt="XBDash" src="https://github.com/user-attachments/assets/5d49f917-ad5d-49fd-856b-9f2ceb553d55" />
+<img width="400" height="400" alt="XBDash" src="https://github.com/user-attachments/assets/9f3eaf95-0a6c-453b-b7b4-ce7ea561b8e2" />
+
 
 # XBOX Dashboard
 
