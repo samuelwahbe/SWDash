@@ -1,4 +1,5 @@
-<img width="400" height="400" alt="XBDash" src="https://github.com/user-attachments/assets/9f3eaf95-0a6c-453b-b7b4-ce7ea561b8e2" />
+<img width="400" height="90" alt="SWDash" src="https://github.com/user-attachments/assets/0ea12369-bd32-4fe9-b789-d4ae950ec42c" />
+
 
 
 # SAMUELWAHBE Dashboard
