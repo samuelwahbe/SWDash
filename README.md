@@ -1,7 +1,5 @@
 <img width="400" height="90" alt="SWDash" src="https://github.com/user-attachments/assets/0ea12369-bd32-4fe9-b789-d4ae950ec42c" />
 
-
-
 # SAMUELWAHBE Dashboard
 
 SAMUELWAHBE Dashboard, the new Dashboard for Original XBOX.
