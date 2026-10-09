@@ -2,7 +2,7 @@
 
 ## SW Dash
 
-*TBA* ow
+*TBA*
 
 ## XBOX
 
