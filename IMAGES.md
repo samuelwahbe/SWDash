@@ -8,11 +8,11 @@
 
 ### XBOX Classic Logo
 
-<img width="711" height="242" alt="XBOX Classic Logo" src="https://github.com/user-attachments/assets/4e7bd5ce-ebca-4073-bb3d-be71ef1bfdf7" />
+<img width="355.5" height="121" alt="XBOX Classic Logo" src="https://github.com/user-attachments/assets/4e7bd5ce-ebca-4073-bb3d-be71ef1bfdf7" />
 
 ### XBOX Classic Console
 
-<img width="4800" height="2200" alt="XBOX Classic Console" src="https://github.com/user-attachments/assets/70df15a0-2ad6-41b0-bb3e-84f1a9cdc8a4" />
+<img width="2400" height="1100" alt="XBOX Classic Console" src="https://github.com/user-attachments/assets/70df15a0-2ad6-41b0-bb3e-84f1a9cdc8a4" />
 
 ### XBOX
 
