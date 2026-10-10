@@ -12,7 +12,7 @@
 
 ### XBOX Classic Console
 
-<img width="1200" height="550" alt="XBOX Classic Console" src="https://github.com/user-attachments/assets/70df15a0-2ad6-41b0-bb3e-84f1a9cdc8a4" />
+<img width="600" height="275" alt="XBOX Classic Console" src="https://github.com/user-attachments/assets/70df15a0-2ad6-41b0-bb3e-84f1a9cdc8a4" />
 
 ### XBOX
 
